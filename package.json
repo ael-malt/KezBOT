@@ -1,0 +1,29 @@
+{
+  "name": "kezbot",
+  "version": "1.0.0",
+  "description": "Le bot a Kezcub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "author": "thenono1",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "jimp": "^0.16.1",
+    "module-alias": "^2.2.2",
+    "ms": "^2.1.3",
+    "nodemon": "^2.0.7",
+    "randomcolor": "^0.6.2",
+    "teemojs": "^1.7.0"
+  },
+  "_moduleAliases": {
+    "@root": ".",
+    "@util": "./util",
+    "@features": "./features/features",
+    "@commands": "./commands/commands",
+    "@channels": "./channels"
+  }
+}

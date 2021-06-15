@@ -1,0 +1,23 @@
+{
+    "content": null,
+    "embeds": [
+      {
+        "title": "<:IconFriends:840564687418163230> Introduction",
+        "description": "<:Blue_diamond:840564527413985330> Bienvenue dans le Kezclub! \n<:Blue_diamond:840564527413985330> Vous recevrez une notification dès que je serai en streamㅤㅤㅤㅤ",
+        "color": 3830909,
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/attachments/840163655495581726/840164226102198292/mascotte.vide.png"
+        }
+      },
+      {
+        "title": "<:IconRulesChannel:840564537140838400> Règlement",
+        "description": "<:Blue_diamond:840564527413985330> Pas de spam/flood\n<:Blue_diamond:840564527413985330> Evitez les propos haineux, racistes, homophobes….\n<:Blue_diamond:840564527413985330> TrashTalk autorisé / vivement conseillé pour survivre dans cette jungle Hostile\n<:Blue_diamond:840564527413985330> Pas de contenu à caractère pornographique/obscène\n<:Blue_diamond:840564527413985330> Respectez le thème des salons textuels\n<:Blue_diamond:840564527413985330> La pub est interdite (sauf l'accord d'un modérateur)\n<:Blue_diamond:840564527413985330> En cas de problème n’hésitez pas à contacter un modérateurㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+        "color": 3830909
+      },
+      {
+        "title": "<:BadeServerVerifiedDark:840564235787436043> Vérification",
+        "description": "<:Blue_diamond:840564527413985330> Cochez la réaction <:Blue_Check:840564507326808084> sous ce message afin d‘obtenir le rôle <@&840169165838090270> et avoir accès au serveur\n<:Blue_diamond:840564527413985330> Profitez bien de votre séjour sur le serveur",
+        "color": 3830909
+      }
+    ]
+  }
