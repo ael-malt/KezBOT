@@ -16,7 +16,6 @@ module.exports = {
             let memberTarget = message.guild.members.cache.get(target.id);
  
             if (!arguments[1]) {
-                memberTarget.roles.remove(mainRole.id);
                 memberTarget.roles.add(muteRole.id);
                 message.channel.send(`${memberTarget} Ferme ton clapet s'il te plait`);
                 return
